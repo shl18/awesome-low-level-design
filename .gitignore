@@ -1,6 +1,5 @@
 .idea/
 
-.vscode/
 
 solutions/java/.idea/
 solutions/java/out/
@@ -11,3 +10,5 @@ solutions/c#/bin/
 solutions/c#/obj/
 
 *.py
+config.bat
+node_modules
